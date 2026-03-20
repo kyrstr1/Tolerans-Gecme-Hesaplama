@@ -4,6 +4,7 @@ Makine mühendisliği ve imalat süreçlerinde kullanılan **tolerans ve geçme 
 
 Bu proje sadece bir hesap makinesi değil, aynı zamanda **H7, H8, g6, f7, h6 gibi toleransların ne anlama geldiğini açıklayan bir rehberdir.**
 
+
 ---
 
 ## 🚀 Özellikler
